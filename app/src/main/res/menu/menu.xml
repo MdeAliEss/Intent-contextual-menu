@@ -1,0 +1,16 @@
+<!-- res/menu/menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/Ajouter"
+      android:title="Ajouter"
+      android:icon="@drawable/design"
+      android:background="@drawable/menu_item_background"
+      android:titleTextColor="@color/black" />
+
+  <item
+      android:id="@+id/Supprimir"
+      android:title="Supprimer"
+      android:icon="@drawable/design"
+      android:background="@drawable/menu_item_background"
+      android:titleTextColor="@color/black" />
+</menu>

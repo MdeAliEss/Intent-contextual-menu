@@ -1,0 +1,8 @@
+<!-- res/drawable/menu_item_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- State when the menu item is pressed -->
+    <item android:state_pressed="true" android:drawable="@color/gray" />
+
+    <!-- Default state for the menu item -->
+    <item android:drawable="@color/white" />
+</selector>
